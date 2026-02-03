@@ -1,4 +1,4 @@
-# Data Guard Health Check Script
+# Data Guard Health Check Script.
 
 Oracle Data Guard monitoring script for checking replication health, lag, and archive gaps.
 
